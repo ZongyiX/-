@@ -1,3 +1,3 @@
 # Watermelon-book
 
-# Some homework for machine learning courses
+Some homework for machine learning courses
